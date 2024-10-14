@@ -11,8 +11,8 @@ Servicios indrustriales del Caribe es una empresa que se centra en el campo del 
 
 Cuenta con un amplio número de servicios que se le pueden dar a todos aquellos que requieran cumplir sus necesidades.
 
-## License
+## Licencia
 
-Este trabajo cuenta con derechos reservados y su uso es bajo permiso
+Este trabajo está protegido por derechos reservados. Su uso está permitido únicamente con autorización previa.
 
 # SICA-Production
